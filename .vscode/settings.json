@@ -1,0 +1,20 @@
+{
+    "python.pythonPath": "C:\\Users\\ANILMA~1\\Envs\\django\\Scripts\\python.exe",
+    "python.venvPath": "C:\\Users\\ANILMA~1\\Envs\\django",
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintPath": "C:\\Users\\ANILMA~1\\Envs\\django\\Scripts\\pylint.exe",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        ".vscode" : true,
+        "**/*,pyc": true,
+    }
+}
